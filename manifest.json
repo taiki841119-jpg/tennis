@@ -1,0 +1,8 @@
+{
+  "name": "テニス乱数表",
+  "short_name": "乱数表",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#1f7a4d"
+}
